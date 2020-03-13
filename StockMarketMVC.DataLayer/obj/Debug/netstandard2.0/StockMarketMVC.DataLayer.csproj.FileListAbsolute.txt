@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\bin\Debug\netstandard2.0\StockMarketMVC.DataLayer.deps.json
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\bin\Debug\netstandard2.0\StockMarketMVC.DataLayer.dll
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\bin\Debug\netstandard2.0\StockMarketMVC.DataLayer.pdb
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\bin\Debug\netstandard2.0\StockMarketMVC.Entities.dll
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\bin\Debug\netstandard2.0\StockMarketMVC.Entities.pdb
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.0\StockMarketMVC.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.0\StockMarketMVC.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.0\StockMarketMVC.DataLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.0\StockMarketMVC.DataLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.0\StockMarketMVC.DataLayer.dll
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.0\StockMarketMVC.DataLayer.pdb

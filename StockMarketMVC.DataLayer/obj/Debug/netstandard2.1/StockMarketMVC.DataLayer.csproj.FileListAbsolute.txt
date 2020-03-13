@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\bin\Debug\netstandard2.1\StockMarketMVC.DataLayer.deps.json
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\bin\Debug\netstandard2.1\StockMarketMVC.DataLayer.dll
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.1\StockMarketMVC.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.1\StockMarketMVC.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.DataLayer\obj\Debug\netstandard2.1\StockMarketMVC.DataLayer.AssemblyInfo.cs

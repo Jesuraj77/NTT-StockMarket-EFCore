@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.Entities\bin\Debug\netstandard2.0\StockMarketMVC.Entities.deps.json
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.Entities\bin\Debug\netstandard2.0\StockMarketMVC.Entities.dll
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.Entities\bin\Debug\netstandard2.0\StockMarketMVC.Entities.pdb
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.Entities\obj\Debug\netstandard2.0\StockMarketMVC.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.Entities\obj\Debug\netstandard2.0\StockMarketMVC.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.Entities\obj\Debug\netstandard2.0\StockMarketMVC.Entities.dll
+C:\Users\Admin\source\repos\StockMarketMVC\StockMarketMVC.Entities\obj\Debug\netstandard2.0\StockMarketMVC.Entities.pdb
